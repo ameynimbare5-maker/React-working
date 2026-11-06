@@ -1,0 +1,43 @@
+
+.container {
+    width: 80%;
+    margin: 30px auto;
+    text-align: center;
+    font-family: Arial;
+}
+
+input {
+    padding: 10px;
+    margin: 8px;
+    width: 200px;
+}
+
+button {
+    padding: 10px 15px;
+    margin: 5px;
+    background-color: #2563eb;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #1e40af;
+}
+
+table {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid gray;
+    padding: 12px;
+}
+
+th {
+    background-color: #2563eb;
+    color: white;
+}
